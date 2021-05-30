@@ -1,5 +1,3 @@
-package week_12_GA;
-
 import java.io.FileNotFoundException;
 
 /**
