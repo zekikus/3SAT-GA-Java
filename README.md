@@ -1,4 +1,4 @@
-# Genetic Algorithm for 3-SAT Problem
+# Genetic Algorithm Java Implementation for 3-SAT Problem
 
 ## The sections related to the definition of the 3-SAT problem are taken from [this paper](https://ieeexplore.ieee.org/abstract/document/7603220).
 ### Boolean Satisfiability Problem
