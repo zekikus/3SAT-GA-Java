@@ -7,7 +7,7 @@ import java.util.Arrays;
 // Each individual has fitness value and chromosome array
 public class Individual {
 
-    private int fitness; // Store the fitness value of this individual, for this problem fitness value store the number of 1's count
+    private int fitness; // Store the fitness value of this individual
     private int[] chromosome; // Store the each gene of the chromosome
 
     public Individual(int length, boolean init) {
